@@ -7,5 +7,4 @@ taxonomy:
       - tag-1
       - tag-2
 ---
-## 3번째
-페이지 변경후 변경
+Post changed
