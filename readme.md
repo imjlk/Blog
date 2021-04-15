@@ -8,3 +8,6 @@ taxonomy:
 
 ## 기여 방법
 이제 반영된다
+
+## link test
+[이 게시글](category1/index.md)을 참조하세요
