@@ -1,6 +1,6 @@
 ---
 post_status: publish
-title: Temp Ipsum #843
+title: "Temp Ipsum #843"
 taxonomy:
   category:
     - dummy 

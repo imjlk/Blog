@@ -1,6 +1,6 @@
 ---
 post_status: publish
-title: Temp Ipsum #547
+title: "Temp Ipsum #547"
 taxonomy:
   category:
     - dummy 
