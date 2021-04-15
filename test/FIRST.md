@@ -12,17 +12,3 @@ taxonomy:
 Plain text
 
 **BoldText**
-
-## Another H2 style
-### H3 1
-abcd
-
-### H3 2
-efgh
-
-### H3 3
-#### H4 1
-nesting
-
-#### H4 2
-contents
