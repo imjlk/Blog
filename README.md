@@ -1,9 +1,9 @@
 ---
 post_status: publish
+title: 기여
 taxonomy:
   category:
       - contribute
-  post_tag:
 ---
 
 ## README

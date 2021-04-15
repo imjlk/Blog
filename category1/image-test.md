@@ -3,6 +3,7 @@ post_status: publish
 taxonomy:
   category:
       - category1
+title: 타이틀 변경
 ---
 
 ## Images
