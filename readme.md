@@ -10,4 +10,4 @@ taxonomy:
 이제 반영된다
 
 ## link test
-[이 게시글](category1/index.md)을 참조하세요
+[이 게시글](/category1/image-test.md)을 참조하세요
