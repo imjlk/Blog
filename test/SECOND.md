@@ -1,3 +1,11 @@
+---
+post_status: publish
+taxonomy:
+  category:
+      - test
+  post_tag:
+      - tag-1
+---
 ## Second Article
 자꾸 중복해서 올려버리네
 ### TEST1
